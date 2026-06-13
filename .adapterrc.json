@@ -1,0 +1,12 @@
+{
+  "fileName": "busaway-playable",
+  "title": "Bus Away",
+  "buildPlatform": "web-mobile",
+  "orientation": "portrait",
+  "exportChannels": ["google", "facebook", "applovin", "unity", "ironsource"],
+  "isZip": true,
+  "compress": {
+    "enable": true,
+    "quality": 80
+  }
+}
